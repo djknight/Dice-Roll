@@ -1,2 +1,2 @@
 Dice
-Made with js ,react ,node.js
+Made with js ,react ,node.js & CSS Animation
