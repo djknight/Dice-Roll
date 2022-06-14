@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Dice-Roll/static/css/main.3e14d5fe.chunk.css",
+    "main.js": "/Dice-Roll/static/js/main.ef099b0f.chunk.js",
+    "main.js.map": "/Dice-Roll/static/js/main.ef099b0f.chunk.js.map",
+    "runtime-main.js": "/Dice-Roll/static/js/runtime-main.de945121.js",
+    "runtime-main.js.map": "/Dice-Roll/static/js/runtime-main.de945121.js.map",
+    "static/js/2.7a8a7094.chunk.js": "/Dice-Roll/static/js/2.7a8a7094.chunk.js",
+    "static/js/2.7a8a7094.chunk.js.map": "/Dice-Roll/static/js/2.7a8a7094.chunk.js.map",
+    "index.html": "/Dice-Roll/index.html",
+    "static/css/main.3e14d5fe.chunk.css.map": "/Dice-Roll/static/css/main.3e14d5fe.chunk.css.map",
+    "static/js/2.7a8a7094.chunk.js.LICENSE.txt": "/Dice-Roll/static/js/2.7a8a7094.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de945121.js",
+    "static/js/2.7a8a7094.chunk.js",
+    "static/css/main.3e14d5fe.chunk.css",
+    "static/js/main.ef099b0f.chunk.js"
+  ]
+}
